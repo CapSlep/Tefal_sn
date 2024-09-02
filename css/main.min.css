@@ -853,6 +853,7 @@ h6 {
   display: none;
 }
 .choose_gift {
+  opacity: 0;
   z-index: 1;
 }
 .choose_gift > img {
@@ -867,6 +868,7 @@ h6 {
 .boxes .choose__item.premiazo > .choose_gift {
   -webkit-animation: tapa_superior 4s infinite alternate;
   animation: tapa_superior 4s infinite alternate;
+  opacity: 1;
 }
 .tremor_lower {
   -webkit-animation: tremor_lower 2s;
