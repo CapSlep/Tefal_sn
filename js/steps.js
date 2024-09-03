@@ -3,27 +3,27 @@ var theme = "9-coop";
 var template = "surbox";
 var brand_country = "United States";
 var dayNames = Array(
-  "Sunday",
-  "Monday",
-  "Tuesday",
-  "Wednesday",
-  "THURSDAY",
-  "Friday",
-  "SATURDAY"
+  "Dimanche",
+  "Lundi",
+  "Mardi",
+  "Mercredi",
+  "JEUDI",
+  "Vendredi",
+  "SAMEDI"
 );
 var monthNames = [
-  "January",
-  "February",
-  "March",
-  "April",
-  "May",
-  "June",
-  "July",
-  "August",
-  "September",
-  "October",
-  "November",
-  "December",
+  "Janvier",
+  "Février",
+  "Mars",
+  "Avril",
+  "Mai",
+  "Juin",
+  "Juillet",
+  "Août",
+  "Septembre",
+  "Octobre",
+  "Novembre",
+  "Décembre",
 ];
 var img_regalo = "./principal-it.png";
 var minutos_y = "minute ";
@@ -34,25 +34,25 @@ var modalOptions = {
 };
 var data = [
   {
-    name: "Noah",
-    address: "London",
+    name: "Élodie",
+    address: "Marseille",
     desc: "Won a tefal set!",
     img: "./img/box-04.png",
-    time: "15 seconds ago",
+    time: "Il y a 15 secondes",
   },
   {
-    name: "Olivia",
-    address: "Manchester",
+    name: "Bastien",
+    address: "Lyon",
     desc: "Won a tefal set!",
     img: "./img/box-04.png",
-    time: "18 seconds ago",
+    time: "Il y a 18 secondes",
   },
   {
-    name: "Arthur",
-    address: "Nottingham",
+    name: "Capucine",
+    address: "Toulouse",
     desc: "Won a tefal set!",
     img: "./img/box-04.png",
-    time: "10 seconds ago",
+    time: "Il y a 10 secondes",
   },
 ];
 $(document).ready(function () {
