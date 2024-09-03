@@ -63,7 +63,7 @@
   --content-bg: #fff;
 }
 .js-slider > img {
-  max-height: 375px !important;
+  max-height: 435px !important;
 }
 .question__title {
   font-size: 16 !important;
@@ -183,7 +183,7 @@
   .js-slider > img {
     display: block;
     margin: 0 auto;
-    height: calc((100vh - 556px) * 55 / 468 + 220px) !important;
+    height: calc((100vh - 556px) * 55 / 468 + 300px) !important;
   }
   .js-slider-nav .slick-slide {
     height: calc((100vh - 556px) * 20 / 468 + 60px);
